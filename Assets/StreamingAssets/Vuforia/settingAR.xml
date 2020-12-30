@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="011e287176071998b5d7b65f0bc7078e" size="5.000000 5.000000" />
+    <ImageTarget name="logo-bugatti-1-normal-636" size="5.000000 5.000000" />
+    <ImageTarget name="porsche-logo" size="5.000000 2.250000" />
+    <ImageTarget name="bugatti-symbol" size="50.000000 31.250000" />
+    <ImageTarget name="nisfal-desmianda-SBFGjbLHEEA-unsplash" size="50.000000 66.666664" />
+    <ImageTarget name="garuda" size="50.000000 54.208332" />
+    <ImageTarget name="lamborghini" size="50.000000 56.290958" />
+    <ImageTarget name="Lamborghinilogo" size="50.000000 56.111111" />
+    <ImageTarget name="logo_polinema" size="50.000000 50.417660" />
+  </Tracking>
+</QCARConfig>
